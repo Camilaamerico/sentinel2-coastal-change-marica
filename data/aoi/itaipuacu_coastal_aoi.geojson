@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "itaipuacu_coastal_aoii",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32723" } },
+"features": [
+{"type":"Feature","properties":{"id":null},"geometry":{"type":"MultiPolygon","coordinates":[[[[703134.031964943744242,7457550.008643265813589],[703134.031964944908395,7459545.73134874086827],[716097.239808263955638,7459545.731348747387528],[716097.239808263257146,7457550.008643269538879],[703134.031964943744242,7457550.008643265813589]]]]}}
+]
+}

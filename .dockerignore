@@ -1,0 +1,9 @@
+# Build context contains code and small AOIs only; mount data at runtime.
+**
+!Dockerfile
+!requirements.txt
+!src/
+!src/*.py
+!data/
+!data/aoi/
+!data/aoi/*.geojson
